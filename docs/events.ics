@@ -1,0 +1,818 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccfeed//Commonwealth Club Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Commonwealth Club Events
+X-WR-CALDESC:All upcoming Commonwealth Club World Affairs events (unofficia
+ l)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:abb5b07193cf150b1780864834feab4aea530d00@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261117T093000Z
+DTEND:20261117T110000Z
+SUMMARY:UC Berkeley’s Saira Mohamed on “What a Country Owes Its Soldier
+ s”
+LOCATION:Commonwealth Club World Affairs of California\, Third Floor\, San 
+ Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-11-16/uc-berkeleys-saira-m
+ ohamed-what-country-owes-its-soldiers
+DESCRIPTION:American leaders endlessly profess their admiration for militar
+ y service members. But according to UC Berkeley law professor Saira Mohame
+ d\, these effusive declarations hardly comport with reality. Soldiers rece
+ ive shoddy equipment and inadequate medical care\; they are ordered to com
+ mit crimes and deployed to illegal wars. Such treatment\, she writes\, is 
+ rarely recognized for what it is: a violation of the duty owed to soldiers
+  by their government.\n\nInfo & tickets: https://www.commonwealthclub.org/
+ events/2026-11-16/uc-berkeleys-saira-mohamed-what-country-owes-its-soldier
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:e183952799663d3723c7b6917e5b1a80879d87ed@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Ben Buchanan: Superintelligence\, Superpowers\, and the Fate of the
+  World
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-11-16/ben-buchanan-superin
+ telligence-superpowers-and-fate-world
+DESCRIPTION:The first person to serve as the White House special advisor fo
+ r artificial intelligence comes to us with a message about the choices we 
+ as a country will have to make about AI.\n\nInfo & tickets: https://www.co
+ mmonwealthclub.org/events/2026-11-16/ben-buchanan-superintelligence-superp
+ owers-and-fate-world
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a681f470a1a6a6d08cb564af74603df636612d@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261118T090000Z
+DTEND:20261118T103000Z
+SUMMARY:Distinguished Citizens Awards Annual Gala 2026
+LOCATION:The Fairmont Hotel\, 950 Mason St.\, San Francisco\, CA\, 94108
+URL:https://www.commonwealthclub.org/events/2026-11-17/distinguished-citize
+ ns-awards-annual-gala-2026
+DESCRIPTION:The 38th Commonwealth Club World Affairs' Distinguished Citizen
+ s Awards Annual Gala 2026 will celebrate visionary leaders whose innovatio
+ n\, generosity and commitment to the public good are shaping a brighter fu
+ ture for our communities.\n\nInfo & tickets: https://www.commonwealthclub.
+ org/events/2026-11-17/distinguished-citizens-awards-annual-gala-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:6baef3db38dce0dbf2ac327942704b22f50adabc@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261119T120000Z
+DTEND:20261119T133000Z
+SUMMARY:The Humanist Review of AI: Abundance & Scarcity
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-11-18/humanist-review-ai-a
+ bundance-scarcity
+DESCRIPTION:What becomes scarce when intelligence is abundant? Artificial i
+ ntelligence promises a new era of abundance—but how will it deliver on t
+ hat promise? And what impact will abundance have on how our society works?
+  This event marks the publication of the second issue of The Humanist Revi
+ ew of AI\, a new journal of ideas funded by Microsoft AI that explores the
+ se questions. For more\, visit the Humanist Review of AI's website. About 
+ the Speakers\n\nInfo & tickets: https://www.commonwealthclub.org/events/20
+ 26-11-18/humanist-review-ai-abundance-scarcity
+END:VEVENT
+BEGIN:VEVENT
+UID:e43d1f920937f9ed11f4680cbea9800540e41a84@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261120T093000Z
+DTEND:20261120T110000Z
+SUMMARY:The Machine-Mediated Economy: When AI Becomes the Interface to Ever
+ ything
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-11-19/machine-mediated-eco
+ nomy-when-ai-becomes-interface-everything
+DESCRIPTION:We’re entering an economy where AI increasingly sits between 
+ people and the companies\, products and services they choose. Discovery\, 
+ evaluation\, comparison and eventually transactions are moving inside AI. 
+ What happens when your customer’s AI talks to your company’s AI before
+  the customer ever talks to you? We’ll explore what this shift means for
+  business and markets\, along with what Toby Corey's team is learning firs
+ thand building BrandCapsule\, an AI discovery intelligence company. About 
+ the Speakers\n\nInfo & tickets: https://www.commonwealthclub.org/events/20
+ 26-11-19/machine-mediated-economy-when-ai-becomes-interface-everything
+END:VEVENT
+BEGIN:VEVENT
+UID:1b5326a76f78e85f3d7cbc9617f294276e604f59@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261120T110000Z
+DTEND:20261120T123000Z
+SUMMARY:Defending Taiwan: How to Avoid War with China
+LOCATION:Dominican University\, The Creekside Room\, San Rafael\, CA\, 9490
+ 1
+URL:https://www.commonwealthclub.org/events/2026-11-19/defending-taiwan-how
+ -avoid-war-china
+DESCRIPTION:Dr. Eyck Freymann argues that whether war happens between the U
+ nited States and China depends on choices being made right now—in Washin
+ gton\, Beijing and Taipei. In Defending Taiwan\, Dr. Freymann presents the
+  first integrated strategy to honorably deter war with China over Taiwan.\
+ n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-11-19/defe
+ nding-taiwan-how-avoid-war-china
+END:VEVENT
+BEGIN:VEVENT
+UID:5cde0abf7ec07eec3497370214eacaa7c9ddf8bb@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261201T070000Z
+DTEND:20261201T083000Z
+SUMMARY:Sam Wasson: Frank Capra’s Own Wondrous Life
+LOCATION:Commonwealth Club World Affairs of California
+URL:https://www.commonwealthclub.org/events/2026-11-30/sam-wasson-frank-cap
+ ras-own-wondrous-life
+DESCRIPTION:Frank Capra\, the director of Mr. Smith Goes to Washington\, It
+  Happened One Night\, and It’s a Wonderful Life\, is renowned as one of 
+ the great chroniclers of the American heart—how we love\, dream\, hope a
+ nd fight for our individuality. But Frank Capra was a far more complex art
+ ist than is usually reckoned and a far more complicated man than anyone kn
+ ows. As Jimmy Stewart\, his most famous collaborator\, put it\, “the bes
+ t Frank Capra story is the story of his own life. It’s got more highs an
+ d lows than a roller coaster. It’s heartwarming.\n\nInfo & tickets: http
+ s://www.commonwealthclub.org/events/2026-11-30/sam-wasson-frank-capras-own
+ -wondrous-life
+END:VEVENT
+BEGIN:VEVENT
+UID:44534a67e84e8506460c283356a5e9a1797c4936@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261201T100000Z
+DTEND:20261201T113000Z
+SUMMARY:Sheba Shobashini: How to Resist Adopting a Spiritual Inferiority Co
+ mplex
+LOCATION:The Commonwealth Club of California\, Taube Family Auditorium\, Sa
+ n Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-11-30/sheba-shobashini-how
+ -resist-adopting-spiritual-inferiority-complex
+DESCRIPTION:One of the most persistent and pernicious problems caused by pa
+ triarchal cultures is the internalization of inferiority in the socially p
+ owerless.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-
+ 11-30/sheba-shobashini-how-resist-adopting-spiritual-inferiority-complex
+END:VEVENT
+BEGIN:VEVENT
+UID:80fbe33206bf101c706cb7ae95fb33ef1599ae2e@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261202T093000Z
+DTEND:20261202T110000Z
+SUMMARY:Media as Civic Infrastructure: Building the Culture and Communities
+  We Need
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-01/media-civic-infrastr
+ ucture-building-culture-and-communities-we-need
+DESCRIPTION:What if we understood local media not simply as a source of new
+ s and information\, but as essential civic infrastructure? At a moment whe
+ n local journalism is shrinking\, public trust is eroding\, and communitie
+ s are increasingly disconnected\, we need to rethink the role media plays 
+ in the places we call home. A healthy civic life depends on more than info
+ rmed residents. It depends on people feeling connected to one another\, se
+ eing themselves and their communities represented\, having opportunities t
+ o participate in public life\, and developing a shared sense of belonging 
+ and possibility.\n\nInfo & tickets: https://www.commonwealthclub.org/event
+ s/2026-12-01/media-civic-infrastructure-building-culture-and-communities-w
+ e-need
+END:VEVENT
+BEGIN:VEVENT
+UID:27d009b4f4bcb655d5ce8cbd191dc7a7782f2d54@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261203T093000Z
+DTEND:20261203T110000Z
+SUMMARY:The Intersection of Art Therapy and Spiritual Enlightenment: An Eng
+ ineer’s Perspective!
+LOCATION:Commonwealth Club World Affairs of California\, 110 The Embarcader
+ o\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-02/intersection-art-the
+ rapy-and-spiritual-enlightenment-engineers-perspective
+DESCRIPTION:Rob Mintz\, chief curator at the Asian Art Museum and artist Ni
+ ck Dong explore the intersections of art\, technology and Buddhist awakeni
+ ng—a conversation with the artist and a museum curator. Integrating the 
+ invisible connections of sound\, light and metal work to eliminate societa
+ l fractures and create a universal spiritual awareness\, Oakland artist Ni
+ ck Dong\, a visionary craftsman\, sculptor and engineer\, brings to Common
+ wealth Club World Affairs a unique audiovisual experience that’s totally
+  different from anything Club members have ever seen or heard before.\n\nI
+ nfo & tickets: https://www.commonwealthclub.org/events/2026-12-02/intersec
+ tion-art-therapy-and-spiritual-enlightenment-engineers-perspective
+END:VEVENT
+BEGIN:VEVENT
+UID:6b054ece8a91c6938ebf57c85c0ce5946e097c26@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261203T100000Z
+DTEND:20261203T113000Z
+SUMMARY:Michael Mondavi Biography Book Launch—Deals Drama Drive: Michael 
+ Mondavi and the Making of Napa Valley
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-02/michael-mondavi-biog
+ raphy-book-launch-deals-drama-drive-michael-mondavi-and
+DESCRIPTION:Today\, California’s wine industry creates about $84 billion 
+ in economic activity in the state\, supporting hundreds of thousands of jo
+ bs and contributing billions in state and federal taxes. Join us for an in
+ side look at the deals\, drama and drive behind one of America’s greates
+ t wine dynasties when Michael Mondavi comes to the Club.\n\nInfo & tickets
+ : https://www.commonwealthclub.org/events/2026-12-02/michael-mondavi-biogr
+ aphy-book-launch-deals-drama-drive-michael-mondavi-and
+END:VEVENT
+BEGIN:VEVENT
+UID:c002cdbdcb8873d3045de30416ec82d0140f2940@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261204T100000Z
+DTEND:20261204T113000Z
+SUMMARY:50 Years of Mother Jones\, with Adam Hochschild and Monika Bauerlei
+ n
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-03/50-years-mother-jone
+ s-adam-hochschild-and-monika-bauerlein
+DESCRIPTION:San Francisco has a rich journalism history that includes being
+  home to the nation’s first investigative news organization\, Mother Jon
+ es. The independent\, nonprofit news outlet started in 1976 in an office a
+ bove a McDonald’s restaurant\, and has been exposing wrongdoing among go
+ vernments and corporations\, and holding the powerful to account for 50 ye
+ ars.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-12-03
+ /50-years-mother-jones-adam-hochschild-and-monika-bauerlein
+END:VEVENT
+BEGIN:VEVENT
+UID:0bac3f51af57e30a8c2a6ebebe44f0e1eb831799@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Imperfect Circles Discussion Group at the Orinda Library
+LOCATION:Orinda Public Library\, 26 Orinda Way\, Orinda\, CA\, 94563
+URL:https://www.commonwealthclub.org/events/2026-12-03/imperfect-circles-di
+ scussion-group-orinda-library
+DESCRIPTION:Are you a person who never tires of talking or thinking about p
+ hilosophical\, scientific or religious theories? Are you interested in psy
+ chological insights\, or attempts at such insights\, into human life? Ther
+ e are many who would insist that being realistic about human life means yo
+ u should ignore such fundamental questions—starting around the time the 
+ ink dries on your diploma. But it is unrealistic to ignore the fundamental
+  explanatory concepts that underlie each successful human civilization—c
+ oncepts that sometimes help and sometimes hinder us in our pursuit of happ
+ iness.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-12-
+ 03/imperfect-circles-discussion-group-orinda-library
+END:VEVENT
+BEGIN:VEVENT
+UID:76a70c53290ab19bf6bd14cb1c67806032217993@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261204T110000Z
+DTEND:20261204T123000Z
+SUMMARY:‘The Second Life of Freddie Nole’: Documentary Screening
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-03/second-life-freddie-
+ nole-documentary-screening
+DESCRIPTION:The Second Life of Freddie Nole is a short documentary film tha
+ t follows Freddie\, a magnetic and deeply compassionate man\, who spends h
+ is days meeting newly released citizens at the prison gates\, offering not
+  just a ride but a shot at redemption. Part buddy movie\, part road trip f
+ ilm\, the story unfolds over the course of a single day as Freddie and his
+  friend Steve Chile\, the first man he ever picked up\, help Ed as he take
+ s his first steps into freedom.\n\nInfo & tickets: https://www.commonwealt
+ hclub.org/events/2026-12-03/second-life-freddie-nole-documentary-screening
+END:VEVENT
+BEGIN:VEVENT
+UID:78bea42a63dcd92641d51e8a8562933e83f4ea0d@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261205T100000Z
+DTEND:20261205T113000Z
+SUMMARY:Venture Philanthropy Leader Jim Bildner: Turning Hope Into Action
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-04/venture-philanthropy
+ -leader-jim-bildner-turning-hope-action
+DESCRIPTION:In a world full of seemingly endless challenges\, one human cha
+ racteristic separates those who only see the world’s flaws from those wh
+ o see its potential for change—and that characteristic is hope.\n\nInfo 
+ & tickets: https://www.commonwealthclub.org/events/2026-12-04/venture-phil
+ anthropy-leader-jim-bildner-turning-hope-action
+END:VEVENT
+BEGIN:VEVENT
+UID:e3b355ac8cd96c20735a36872a5aab96d0d584d4@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261206T080000Z
+DTEND:20261206T093000Z
+SUMMARY:‘Steal This Story\, Please!’ Film Screening and Q&A with Amy Go
+ odman and Tia Lessin
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-05/steal-story-please-f
+ ilm-screening-and-qa-amy-goodman-and-tia-lessin
+DESCRIPTION:Fiercely independent journalist Amy Goodman has spent three dec
+ ades holding the powerful to account\, reporting from war zones and the De
+ mocracy Now! newsroom. Taking on politicians\, CEOs and riot police\, Good
+ man has reported some of the most urgent and underreported stories of our 
+ time.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-12-0
+ 5/steal-story-please-film-screening-and-qa-amy-goodman-and-tia-lessin
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7b914b0f9084fd419e47c54c4f54adc75baf24@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261208T093000Z
+DTEND:20261208T110000Z
+SUMMARY:Nicholas Bagley: How Legal Reformers Accidentally Broke America
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-07/nicholas-bagley-how-
+ legal-reformers-accidentally-broke-america-0
+DESCRIPTION:From the left\, right and center\, many Americans would agree t
+ hat American government is broken. The country that built the national hig
+ hway system and created Social Security and Medicare now seems to barely m
+ anage the basics. What went wrong?\n\nInfo & tickets: https://www.commonwe
+ althclub.org/events/2026-12-07/nicholas-bagley-how-legal-reformers-acciden
+ tally-broke-america-0
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f83e88c7369c8514192313e2417a0822b13bcd@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261208T100000Z
+DTEND:20261208T113000Z
+SUMMARY:Fed Up: What Evolution Reveals about Food\, Diet\, Health and Eatin
+ g Well
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-07/fed-what-evolution-r
+ eveals-about-food-diet-health-and-eating-well
+DESCRIPTION:How many times a day do you ask the question\, “What should I
+  eat?” Are you confused and overwhelmed by the thousands of factory-made
+  foods supermarkets sell? Or the abundance of diets (paleo\, Mediterranean
+ \, low-fat\, low-carb\, low-calorie\, intermittent fasting\, vegan\, veget
+ arian\, carnivore) claimed to optimize your health and manage your weight?
+ \n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-12-07/fed
+ -what-evolution-reveals-about-food-diet-health-and-eating-well
+END:VEVENT
+BEGIN:VEVENT
+UID:a472c477c38fe9f9afcbc5ccaa4034479ccbc81d@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261209T090000Z
+DTEND:20261209T103000Z
+SUMMARY:Reading Californians: Jeanne Carstensen’s A Greek Tragedy—A Dea
+ dly Shipwreck During Europe’s 2015 Refugee Crisis
+LOCATION:Commonwealth Club World Affairs of California
+URL:https://www.commonwealthclub.org/events/2026-12-08/reading-californians
+ -jeanne-carstensens-greek-tragedy-deadly-shipwreck-during
+DESCRIPTION:In 2015\, Europe faced its largest refugee crisis since World W
+ ar II. Hundreds of thousands of people fled war\, persecution and hardship
+ \, risking their lives in search of safety. For many\, that journey meant 
+ crossing the dangerous waters between Turkey and Greece.\n\nInfo & tickets
+ : https://www.commonwealthclub.org/events/2026-12-08/reading-californians-
+ jeanne-carstensens-greek-tragedy-deadly-shipwreck-during
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3bcd0bf1e791acf5a845d101bacdbfa381c140@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261209T093000Z
+DTEND:20261209T110000Z
+SUMMARY:The Novelist & the Economist: Kim Stanley Robinson and John Fullert
+ on on the Story We Need Next
+LOCATION:The Commonwealth Club of California\, Toni Rembe Rock Auditorium\,
+  San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-08/novelist-economist-k
+ im-stanley-robinson-and-john-fullerton-story-we-need-next
+DESCRIPTION:A novelist and an economist walk into a bar. Outside\, the worl
+ d is in polycrisis. One of them spent 20 years in the belly of the beast\,
+  becoming the second youngest managing director in JPMorgan’s history\, 
+ followed by a two-decade search after a close encounter with 9/11. The oth
+ er has spent four decades writing novels set on Mars\, in a flooded New Yo
+ rk\, and inside a ministry created to speak for generations not yet born. 
+ You might expect the banker to bring the hard facts and the novelist the i
+ magination. On this evening\, it may run the other way.\n\nInfo & tickets:
+  https://www.commonwealthclub.org/events/2026-12-08/novelist-economist-kim
+ -stanley-robinson-and-john-fullerton-story-we-need-next
+END:VEVENT
+BEGIN:VEVENT
+UID:9b282a1cfb042ebebb7a0c68f7405291faaadef7@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261209T100000Z
+DTEND:20261209T113000Z
+SUMMARY:Daniel Swain: 2026 Stephen Schneider Award for Outstanding Climate 
+ Science Communication
+LOCATION:The Commonwealth Club of California\, Taube Family Auditorium\, Sa
+ n Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-08/daniel-swain-2026-st
+ ephen-schneider-award-outstanding-climate-science
+DESCRIPTION:Have questions about weather and climate? Daniel Swain has answ
+ ers. Swain’s research on “hydroclimate whiplash”—the extreme swing
+ s between floods and fires—is fundamental. But the general public knows 
+ him better as the host of the popular blog and YouTube channel “Weather 
+ West\,” which has tens of thousands of subscribers. In his quest to make
+  extreme weather\, climate change\, and associated natural hazards underst
+ andable and accurate in public discourse\, Swain holds weekly “office ho
+ urs” on YouTube and gives over 200 interviews a year across hundreds of 
+ media outlets.\n\nInfo & tickets: https://www.commonwealthclub.org/events/
+ 2026-12-08/daniel-swain-2026-stephen-schneider-award-outstanding-climate-s
+ cience
+END:VEVENT
+BEGIN:VEVENT
+UID:fd65923573331c19bd352317ab3e6369689115cc@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261210T093000Z
+DTEND:20261210T110000Z
+SUMMARY:Learning Through Place: How Schools Can Catalyze Community and Envi
+ ronmental Change
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-09/learning-through-pla
+ ce-how-schools-can-catalyze-community-and-environmental
+DESCRIPTION:What if schools were not just places where students learn about
+  the world\, but places where they actively help shape the communities aro
+ und them? Join us for this Transforming Our Region forum exploring how pla
+ ce-based education can connect students to their local environments\, comm
+ unities\, and real-world challenges while contributing to broader systems 
+ change.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-12
+ -09/learning-through-place-how-schools-can-catalyze-community-and-environm
+ ental
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf74cd9c0d3288111e1c815bc875c8439854ac4@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261212T100000Z
+DTEND:20261212T113000Z
+SUMMARY:Holiday Mixer at the Club 2026: Music\, Art\, Bites and Bevs
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-11/holiday-mixer-club-2
+ 026-music-art-bites-and-bevs
+DESCRIPTION:You are cordially invited to an evening of holiday cheer\, good
+  company\, and great music at our annual Holiday Mixer. Co-presidents and 
+ Co-CEOs Gloria Duffy and Philip Yun will announce what exciting things awa
+ it us in 2027 at Commonwealth Club World Affairs. Be in the know and learn
+  about all the great programs the Club offers its members.\n\nInfo & ticke
+ ts: https://www.commonwealthclub.org/events/2026-12-11/holiday-mixer-club-
+ 2026-music-art-bites-and-bevs
+END:VEVENT
+BEGIN:VEVENT
+UID:d20f220c4b7856ac55ebee864c257452d08bc9d7@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261215T100000Z
+DTEND:20261215T113000Z
+SUMMARY:Out of the Darkness: Rediscovering Classic Swedish Literature
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-14/out-darkness-redisco
+ vering-classic-swedish-literature
+DESCRIPTION:Join Vendela Vida\, David Katznelson\, and Ulf Olsson to celebr
+ ate their recent anthology of Swedish fiction\, Out of the Darkness: Class
+ ic Short Fiction from Sweden\, published by the University of Minnesota Pr
+ ess.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-12-14
+ /out-darkness-rediscovering-classic-swedish-literature
+END:VEVENT
+BEGIN:VEVENT
+UID:3c0ca5e0194e3486fb884153b6af593a50aad971@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261216T100000Z
+DTEND:20261216T113000Z
+SUMMARY:The Quantum Threat: What Happens When Our Digital Locks Stop Workin
+ g
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-15/quantum-threat-what-
+ happens-when-our-digital-locks-stop-working
+DESCRIPTION:We rely on encryption every day\, usually without thinking abou
+ t it. It protects our bank accounts\, medical records\, government systems
+ \, business communications\, intellectual property\, and much of the infra
+ structure that makes modern life work. But what happens if the mathematics
+  behind some of those protections can be broken?\n\nInfo & tickets: https:
+ //www.commonwealthclub.org/events/2026-12-15/quantum-threat-what-happens-w
+ hen-our-digital-locks-stop-working
+END:VEVENT
+BEGIN:VEVENT
+UID:acf55c7fc084aee1b3407eaaa608d2f3f270720e@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261217T093000Z
+DTEND:20261217T110000Z
+SUMMARY:The Longevity Trap: Why the Obsessive Pursuit of Longevity Is Makin
+ g Us Sick—and How to Actually Live Well
+LOCATION:Commonwealth Club World Affairs of California\, 110 The Embarcader
+ o\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-16/longevity-trap-why-o
+ bsessive-pursuit-longevity-making-us-sick-and-how-actually
+DESCRIPTION:What if the obsessive pursuit of health's itself making us sick
+ ? The global wellness economy is booming: biometric wearables\, longevity 
+ podcasts\, and biohacking influencers peddling supplements\, cold plunges\
+ , and five-figure drug regimens. The pursuit of health and longevity has n
+ ever been more complicated or more expensive.\n\nInfo & tickets: https://w
+ ww.commonwealthclub.org/events/2026-12-16/longevity-trap-why-obsessive-pur
+ suit-longevity-making-us-sick-and-how-actually
+END:VEVENT
+BEGIN:VEVENT
+UID:e811fa12a3f32f2fc3a2148951335cf2afbfd65b@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261217T100000Z
+DTEND:20261217T113000Z
+SUMMARY:Should Huckleberry Finn Be Banned from Our Schools — For Its Own 
+ Good?
+LOCATION:The Commonwealth Club of California\, Taube Family Auditorium\, Sa
+ n Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-16/should-huckleberry-f
+ inn-be-banned-our-schools-its-own-good
+DESCRIPTION:The Adventures of Huckleberry Finn has been in trouble almost f
+ rom the moment Mark Twain published it\, first in Britain in 1884 and then
+  in the United States in 1885. The original objections included Huck’s b
+ ad behavior and socially subversive thinking\, but also the book’s bad g
+ rammar and unconventional language.\n\nInfo & tickets: https://www.commonw
+ ealthclub.org/events/2026-12-16/should-huckleberry-finn-be-banned-our-scho
+ ols-its-own-good
+END:VEVENT
+BEGIN:VEVENT
+UID:d7547b71175706e8ee173f61bfc489dc5aea7995@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Jon Haveman: The Economics of Immigration
+LOCATION:Lafayette Public Library\, Don Tatzin Auditorium\, Lafayette\, CA\
+ , 94549
+URL:https://www.commonwealthclub.org/events/2026-12-17/jon-haveman-economic
+ s-immigration
+DESCRIPTION:Masked troops of ICE and CBP are scooping up immigrants\, occas
+ ionally shooting or beating one or two. Is this good policy? Immigration i
+ s a policy issue with both social and economic implications. Economics has
+  something to say about both. This presentation will shed light on several
+  aspects of immigration that tend to overwhelm the narrative. These are: c
+ rime\, government support programs\, and jobs. It will also raise other is
+ sues that ought to be contemplated when developing appropriate immigration
+  policy. About the Speaker\n\nInfo & tickets: https://www.commonwealthclub
+ .org/events/2026-12-17/jon-haveman-economics-immigration
+END:VEVENT
+BEGIN:VEVENT
+UID:5f29cf86f0e7591cffb0395a351641cb22ea1c34@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270108T093000Z
+DTEND:20270108T110000Z
+SUMMARY:Michael Shellenberger and Alex Gutentag: The Left's War on Reality
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-01-07/michael-shellenberge
+ r-and-alex-gutentag-lefts-war-reality-0
+DESCRIPTION:In The Left's War on Reality\, Michael Shellenberger and Alex G
+ utentag\, two former progressives\, delve into the unsettling truth behind
+  the left’s policies. What they uncover is far more troubling than mere 
+ unintended consequences. Through nine meticulously researched case studies
+ \, they reveal a shocking conclusion: the destruction caused by the left i
+ sn’t accidental—it’s deliberate.\n\nInfo & tickets: https://www.comm
+ onwealthclub.org/events/2027-01-07/michael-shellenberger-and-alex-gutentag
+ -lefts-war-reality-0
+END:VEVENT
+BEGIN:VEVENT
+UID:4550c17855bb83b8d57e96206d382c442dd5a7f5@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270115T093000Z
+DTEND:20270115T110000Z
+SUMMARY:Chinese Americans: The Most Litigious\, Civilly Disobedient America
+ ns
+LOCATION:The Commonwealth Club of California\, Toni Rembe Rock Auditorium\,
+  San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-01-14/chinese-americans-mo
+ st-litigious-civilly-disobedient-americans
+DESCRIPTION:David Y. Lei\, born in Taiwan\, immigrated to the United States
+  in 1956. He began his career as a social worker in San Francisco’s Chin
+ atown in the late 1960s\, working with young people involved in Chinatown 
+ gangs. In 1981\, he entered the business world\, exporting consumer produc
+ ts to Mexico. He sold his business in 2003 and retired. Lei served as vice
+  chair of the Asian Art Museum board and directed San Francisco’s Chines
+ e New Year Parade from 1977 to 2006.\n\nInfo & tickets: https://www.common
+ wealthclub.org/events/2027-01-14/chinese-americans-most-litigious-civilly-
+ disobedient-americans
+END:VEVENT
+BEGIN:VEVENT
+UID:e2cff2cf249cab8aa9af3a5ec62a47bc5aecf6a2@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270115T103000Z
+DTEND:20270115T120000Z
+SUMMARY:From Cyberselfish to the Nerd Reich: The Rise of Radical Silicon Va
+ lley
+LOCATION:Lafayette Public Library\, Don Tatzin Auditorium\, Lafayette\, CA\
+ , 94549
+URL:https://www.commonwealthclub.org/events/2027-01-14/cyberselfish-nerd-re
+ ich-rise-radical-silicon-valley
+DESCRIPTION:Paulina Borsook’s work Cyberselfish—now in a current printi
+ ng\, has been rediscovered as "accidental prophecy"—has been called a sh
+ arp\, prescient critique of Silicon Valley's emerging elite during the lat
+ e-1990s dot-com boom. She identified several toxic cultural undercurrents 
+ that she says have now become mainstream realities across global tech infr
+ astructure:\n\nInfo & tickets: https://www.commonwealthclub.org/events/202
+ 7-01-14/cyberselfish-nerd-reich-rise-radical-silicon-valley
+END:VEVENT
+BEGIN:VEVENT
+UID:8d620e4de22d3f9c9f8f84bc675398ea3f3150d8@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270120T093000Z
+DTEND:20270120T110000Z
+SUMMARY:Robert Alter: The Language of Fiction\, the Craft of Writing and th
+ e Pleasures of Reading
+LOCATION:The Commonwealth Club of California\, Toni Rembe Rock Auditorium\,
+  San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-01-19/robert-alter-languag
+ e-fiction-craft-writing-and-pleasures-reading
+DESCRIPTION:What distinguishes the prose of great novels? How have celebrat
+ ed novelists shaped language into a lasting source of insight and aestheti
+ c pleasure? The award-winning literary critic Robert Alter explores the li
+ terary devices and techniques novelists have used to write famous fiction.
+ \n\nInfo & tickets: https://www.commonwealthclub.org/events/2027-01-19/rob
+ ert-alter-language-fiction-craft-writing-and-pleasures-reading
+END:VEVENT
+BEGIN:VEVENT
+UID:5607776c1185c0a987d99d5bb497e2613031e4f3@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270126T100000Z
+DTEND:20270126T113000Z
+SUMMARY:Little-Known (and Shocking) Revelations About the Character and Con
+ duct of America’s Presidents
+LOCATION:Commonwealth Club World Affairs of California\, 110 The Embarcader
+ o\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-01-25/little-known-and-sho
+ cking-revelations-about-character-and-conduct-americas
+DESCRIPTION:How do scholars and experts rate the presidents? Who was smart\
+ , and who was not? Who was inept or corrupt?\n\nInfo & tickets: https://ww
+ w.commonwealthclub.org/events/2027-01-25/little-known-and-shocking-revelat
+ ions-about-character-and-conduct-americas
+END:VEVENT
+BEGIN:VEVENT
+UID:26d588a34478b2ba93b0fe1c897462905dc51f12@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270127T093000Z
+DTEND:20270127T110000Z
+SUMMARY:Nico Perrino: Free Speech Generation
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-01-26/nico-perrino-free-sp
+ eech-generation
+DESCRIPTION:Learn about the men and women who transformed America’s First
+  Amendment from an unfulfilled promise into the world’s strongest protec
+ tion for free speech.\n\nInfo & tickets: https://www.commonwealthclub.org/
+ events/2027-01-26/nico-perrino-free-speech-generation
+END:VEVENT
+BEGIN:VEVENT
+UID:66b00b61b8157035d8451d38bf9ce015eb6c99f2@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270127T093000Z
+DTEND:20270127T110000Z
+SUMMARY:NPR’s Emily Feng on How China’s Repression Fueled a Militant Mo
+ vement…In Syria
+LOCATION:Commonwealth Club World Affairs of California\, Toni Rembe Rock Au
+ ditorium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-01-26/nprs-emily-feng-how-
+ chinas-repression-fueled-militant-movementin-syria
+DESCRIPTION:What drove a few thousand men and women from the deserts and ci
+ ties of western China to the front lines of Syria’s war? In her new book
+ \, Our Hearts Burned for Home\, journalist Emily Feng unearths the untold 
+ story of Uyghur exiles who fled China’s expanding police state—only to
+  become a pivotal force behind the fall of Bashar al-Assad’s regime. At 
+ the heart of this narrative is a startling paradox: Beijing’s repression
+ \, meant to crush dissent\, instead scattered and radicalized a generation
+ .\n\nInfo & tickets: https://www.commonwealthclub.org/events/2027-01-26/np
+ rs-emily-feng-how-chinas-repression-fueled-militant-movementin-syria
+END:VEVENT
+BEGIN:VEVENT
+UID:db2451ea2a72b4754df6abd5568674c6aec294b8@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270209T093000Z
+DTEND:20270209T110000Z
+SUMMARY:Vladimir Alexandrov: Imperial Russian Support for the Union During 
+ the Civil War
+LOCATION:The Commonwealth Club of California\, Toni Rembe Rock Auditorium\,
+  San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-02-08/vladimir-alexandrov-
+ imperial-russian-support-union-during-civil-war
+DESCRIPTION:In 1863\, as the Civil War raged\, Russian warships suddenly ap
+ peared in New York and San Francisco\, sparking celebrations across the No
+ rth and raising hopes that Russia might support the United States should B
+ ritain and France recognize the Confederacy.\n\nInfo & tickets: https://ww
+ w.commonwealthclub.org/events/2027-02-08/vladimir-alexandrov-imperial-russ
+ ian-support-union-during-civil-war
+END:VEVENT
+BEGIN:VEVENT
+UID:00445a9c8f0224d95573bddd7d7e3daaf19e4ee8@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270212T030000Z
+DTEND:20270212T043000Z
+SUMMARY:The Economy 2027: Will the “Boomcession” Continue?
+LOCATION:The Commonwealth Club of California\, 110 The Embarcadero\, San Fr
+ ancisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-02-11/economy-2027-will-bo
+ omcession-continue
+DESCRIPTION:The Walter E. Hoadley Annual Economic Forecast\, presented by B
+ ank of America. The current state of the U.S. economy has been described a
+ s a “boomcession”: Even as a surge in AI investment is boosting the st
+ ock market and GDP\, many ordinary Americans are feeling left behind. To b
+ e sure\, the economy is still booming\, at least on paper\, and consumers 
+ are still spending\, But inflation\, rising gas prices\, and borrowing cos
+ ts are all putting the squeeze on households.\n\nInfo & tickets: https://w
+ ww.commonwealthclub.org/events/2027-02-11/economy-2027-will-boomcession-co
+ ntinue
+END:VEVENT
+BEGIN:VEVENT
+UID:1a668ac09f47c6ba45784c1c548c11ea423b6aa3@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270224T103000Z
+DTEND:20270224T120000Z
+SUMMARY:Amory Lovins on Disruptive Energy Futures
+LOCATION:The Commonwealth Club of California\, Taube Family Auditorium\, Sa
+ n Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-02-23/amory-lovins-disrupt
+ ive-energy-futures
+DESCRIPTION:In a visionary essay in Foreign Affairs\, physicist Amory Lovin
+ s opened by asking\, “Where are America's formal or de facto energy poli
+ cies leading us? Where might we choose to go instead?” That was 50 years
+  ago. And those critical questions remain just as relevant today\, especia
+ lly against the backdrop of geopolitical tensions\, energy security concer
+ ns\, and accelerating climate disruption.\n\nInfo & tickets: https://www.c
+ ommonwealthclub.org/events/2027-02-23/amory-lovins-disruptive-energy-futur
+ es
+END:VEVENT
+BEGIN:VEVENT
+UID:15de5836b6f20cc70e9122f8de2e956505d58cd5@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270226T110000Z
+DTEND:20270226T123000Z
+SUMMARY:Timnit Gebru: The Rise of AI and the Radicalization of a Tech Ideal
+ ist
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-02-25/timnit-gebru-rise-ai
+ -and-radicalization-tech-idealist
+DESCRIPTION:How can Silicon Valley produce better\, human-centered\, equita
+ ble technology?\n\nInfo & tickets: https://www.commonwealthclub.org/events
+ /2027-02-25/timnit-gebru-rise-ai-and-radicalization-tech-idealist
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0b73f16caa37cf7f652a47af2874bdaaa0bc51@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270305T100000Z
+DTEND:20270305T113000Z
+SUMMARY:Chip Bergh: A Levi’s Story
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-03-04/chip-bergh-levis-sto
+ ry
+DESCRIPTION:How are great brands built—and rebuilt? How do grand leaders 
+ ignite growth? The former president and CEO of Levi Strauss & Co. joins us
+  for an exploration of how he accomplished those goals at the head of the 
+ iconic clothing company.\n\nInfo & tickets: https://www.commonwealthclub.o
+ rg/events/2027-03-04/chip-bergh-levis-story
+END:VEVENT
+BEGIN:VEVENT
+UID:f883deb6b01f3320df2f96b4c4f5e511f0737872@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270312T100000Z
+DTEND:20270312T113000Z
+SUMMARY:Lindsey Caplan and Anthony Veneziale: The Art and Science of What M
+ oves Us and How to Move Others
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-03-11/lindsey-caplan-and-a
+ nthony-veneziale-art-and-science-what-moves-us-and-how-move
+DESCRIPTION:We know when it happens: A story\, a teacher\, a performance\, 
+ an idea\, or a person reaches us and leaves us changed. Many times in life
+  people are asked to move a group: to get a team behind a strategy\, a cla
+ ssroom invested in learning\, an audience to care\, or a community to act.
+  Most of us were never taught how to do that. So we announce\, explain\, a
+ nd push. People comply for a while\, then return to what they were doing b
+ efore.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2027-03-
+ 11/lindsey-caplan-and-anthony-veneziale-art-and-science-what-moves-us-and-
+ how-move
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc7a9a3f3884667b1c50c1bd420c1c65e43b573@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270326T073000Z
+DTEND:20270326T090000Z
+SUMMARY:Robert Mark Kamen: A Screenwriter’s Journey
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-03-25/robert-mark-kamen-sc
+ reenwriters-journey
+DESCRIPTION:The man who wrote The Karate Kid\, The Fifth Element\, and the 
+ Taken franchises was also an international drug trafficker. True\, and he 
+ says that’s not even the craziest part of his life\, which he recounts i
+ n his new memoir A Very Particular Set of Skills. Come see him at Commonwe
+ alth Club World Affairs to hear all about it.\n\nInfo & tickets: https://w
+ ww.commonwealthclub.org/events/2027-03-25/robert-mark-kamen-screenwriters-
+ journey
+END:VEVENT
+BEGIN:VEVENT
+UID:8b72dec49b9c04b896c28626d0a1cc93f23feec1@ccfeed
+DTSTAMP:20261116T091025Z
+DTSTART:20270327T070000Z
+DTEND:20270327T083000Z
+SUMMARY:Humanities West Presents Beethoven the Revolutionary
+LOCATION:The Commonwealth Club of California\, Taube Family Auditorium\, Sa
+ n Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-03-26/humanities-west-pres
+ ents-beethoven-revolutionary
+DESCRIPTION:Ludwig van Beethoven died on March 26\, 1827\, after a lifetime
+  of composing music that still thrills audiences around the world. Humanit
+ ies West celebrates those invaluable cultural contributions on the 200th A
+ nniversary of his death by featuring two Bay Area music scholars and popul
+ ar lecturers—and a special focus on the Ode to Joy of Beethoven's Ninth 
+ Symphony. The Road to the Ninth: Beethoven’s Symphonic Journey\n\nInfo &
+  tickets: https://www.commonwealthclub.org/events/2027-03-26/humanities-we
+ st-presents-beethoven-revolutionary
+END:VEVENT
+END:VCALENDAR
