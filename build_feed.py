@@ -244,10 +244,25 @@ def parse_iso(s):
         return None
 
 
+def parse_iso_for_day(s, day):
+    """The site's JSON-LD omits the offset but is actually UTC. Pick the reading
+    (UTC or Pacific) whose Pacific-local date matches the date in the event URL."""
+    try:
+        dt = datetime.fromisoformat((s or "").replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if dt.tzinfo:
+        return dt
+    as_utc = dt.replace(tzinfo=timezone.utc)
+    if as_utc.astimezone(PACIFIC).date() == day:
+        return as_utc
+    return dt.replace(tzinfo=PACIFIC)
+
+
 def compute_times(item, detail):
-    start = parse_iso(detail.get("start_iso") or "")
-    end = parse_iso(detail.get("end_iso") or "")
     day = datetime.strptime(item["date"], "%Y-%m-%d").date()
+    start = parse_iso_for_day(detail.get("start_iso"), day)
+    end = parse_iso_for_day(detail.get("end_iso"), day)
     if not start:
         tzname = TZ_ABBR.get((item.get("tz") or "PST").upper(), "America/Los_Angeles")
         tz = ZoneInfo(tzname)

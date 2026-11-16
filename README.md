@@ -11,11 +11,10 @@ Builds `docs/events.ics` daily from every page of commonwealthclub.org/events, w
    - `README.md` (optional)
 
    On the web, use **Add file → Create new file** and type `.github/workflows/build.yml` as the name to create the folders.
-3. **Settings → Actions → General → Workflow permissions** → choose **Read and write permissions** → Save.
-4. **Actions** tab → *Build Commonwealth Club calendar* → **Run workflow**. Wait about 2–5 minutes for the first run, which reads every event page. Check that it went green and that `docs/events.ics` appeared.
-5. **Settings → Pages** → Source: *Deploy from a branch* → Branch `main`, folder `/docs` → Save.
-6. A minute later your feed is at:
-   `https://YOUR-USERNAME.github.io/ccfeed/events.ics`
+3. **Actions** tab → *Build Commonwealth Club calendar* → **Run workflow**. Wait about 2–5 minutes for the first run, which reads every event page. Check that it went green and that `docs/events.ics` appeared.
+4. **Settings → Pages** (optional) → Source: *Deploy from a branch* → Branch `main`, folder `/docs` → Save.
+5. Feed URL with Pages on: `https://mikegull.github.io/ccfeed/events.ics`
+   Works without Pages too: `https://raw.githubusercontent.com/mikegull/ccfeed/main/docs/events.ics`
 
 ## Subscribe on iPhone
 
