@@ -471,5 +471,16 @@
    "venue": "The Commonwealth Club of California, Taube Family Auditorium, San Francisco, CA, 94105"
   },
   "fetched": "2026-11-16T09:09:27.466017+00:00"
+ },
+ "https://www.commonwealthclub.org/events/2027-06-03/evening-dan-ashley-side-quests-significance": {
+  "detail": {
+   "description": "What if the measure of a significant life isn't what you accumulated, but what you awakened in other people? \"An Evening with Dan Ashley\" is not simply an interview with a celebrated broadcaster and musician. It is a 65-minute journey through the \"side quests\" that shaped Dan's life\u2014and the people who became better, braver and more purposeful because he chose to pursue them. This evening asks a simple question: Who will you become because of the life you've been given?",
+   "end_iso": null,
+   "livestream": true,
+   "start_iso": "2027-06-04T01:00:00",
+   "title": "An Evening with Dan Ashley: Side Quests to Significance",
+   "venue": "Commonwealth Club World Affairs of California, Taube Family Auditorium, San Francisco, CA, 94105"
+  },
+  "fetched": "2026-11-16T22:56:04.780704+00:00"
  }
 }
