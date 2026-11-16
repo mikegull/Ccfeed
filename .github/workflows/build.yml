@@ -1,0 +1,27 @@
+name: Build Commonwealth Club calendar
+
+on:
+  schedule:
+    - cron: "17 13 * * *"     # daily, ~5–6 AM Pacific
+  workflow_dispatch:           # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python build_feed.py
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add docs/events.ics cache.json
+          git diff --cached --quiet || git commit -m "Update calendar feed"
+          git push
