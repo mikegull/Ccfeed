@@ -318,6 +318,17 @@
   },
   "fetched": "2026-11-16T09:09:27.466017+00:00"
  },
+ "https://www.commonwealthclub.org/events/2027-01-19/mythbusters-adam-savage-finding-joy-making-things": {
+  "detail": {
+   "description": "Former \"MythBusters\" co-host Adam Savage has been described as \u201ca master maker,\u201d \u201ca nerd\u2019s nerd,\u201d and \u201csomebody who blows stuff up.\u201d In his 2020 book Every Tool\u2019s a Hammer, he writes: \u201cThere was something special in the marriage between the structure of my brain and what I could do with my hands. When I made stuff, the world made sense to me. It felt like my superpower.\u201d Savage first used that superpower in the special effects industry, working on films like Star Wars: Episode I \u2013 The Phantom Menace, Galaxy Quest, and the Matrix sequels.",
+   "end_iso": null,
+   "livestream": true,
+   "start_iso": "2027-01-20T02:00:00",
+   "title": "MythBusters\u2019 Adam Savage on Finding Joy in Making Things",
+   "venue": "Commonwealth Club World Affairs of California, Taube Family Auditorium, San Francisco, CA, 94105"
+  },
+  "fetched": "2026-11-18T21:28:17.724403+00:00"
+ },
  "https://www.commonwealthclub.org/events/2027-01-19/robert-alter-language-fiction-craft-writing-and-pleasures-reading": {
   "detail": {
    "description": "What distinguishes the prose of great novels? How have celebrated novelists shaped language into a lasting source of insight and aesthetic pleasure? The award-winning literary critic Robert Alter explores the literary devices and techniques novelists have used to write famous fiction.",
@@ -328,6 +339,17 @@
    "venue": "The Commonwealth Club of California, Toni Rembe Rock Auditorium, San Francisco, CA, 94105"
   },
   "fetched": "2026-11-16T09:09:27.466017+00:00"
+ },
+ "https://www.commonwealthclub.org/events/2027-01-21/where-you-find-me-film-screening-and-qa": {
+  "detail": {
+   "description": "Where You Find Me is a short film directed by Jen Tocquigny that follows Betty Ann Bruno's journey working as a Munchkin in The Wizard of Oz to finding her way back to her family\u2019s roots. After her family moved away from Hollywood, her path was marked by many pivotal moments that shaped her career. Betty Ann took a job in the CIA, went through a period of civic activism in Oakland, then an eventual run for City Council. She went on to become a three-time Emmy Award-winning KTVU reporter\u2014one of the first broadcast positions for Asian-American women.",
+   "end_iso": null,
+   "livestream": false,
+   "start_iso": "2027-01-22T02:00:00",
+   "title": "'Where You Find Me' Film Screening and Q&A",
+   "venue": "Commonwealth Club World Affairs of California, Taube Family Auditorium, San Francisco, CA, 94105"
+  },
+  "fetched": "2026-11-18T21:28:17.724403+00:00"
  },
  "https://www.commonwealthclub.org/events/2027-01-25/little-known-and-shocking-revelations-about-character-and-conduct-americas": {
   "detail": {
@@ -359,17 +381,6 @@
    "start_iso": "2027-01-27T01:30:00",
    "title": "NPR\u2019s Emily Feng on How China\u2019s Repression Fueled a Militant Movement\u2026In Syria",
    "venue": "Commonwealth Club World Affairs of California, Toni Rembe Rock Auditorium, San Francisco, CA, 94105"
-  },
-  "fetched": "2026-11-16T09:09:27.466017+00:00"
- },
- "https://www.commonwealthclub.org/events/2027-02-08/vladimir-alexandrov-imperial-russian-support-union-during-civil-war": {
-  "detail": {
-   "description": "In 1863, as the Civil War raged, Russian warships suddenly appeared in New York and San Francisco, sparking celebrations across the North and raising hopes that Russia might support the United States should Britain and France recognize the Confederacy.",
-   "end_iso": null,
-   "livestream": false,
-   "start_iso": "2027-02-09T01:30:00",
-   "title": "Vladimir Alexandrov: Imperial Russian Support for the Union During the Civil War",
-   "venue": "The Commonwealth Club of California, Toni Rembe Rock Auditorium, San Francisco, CA, 94105"
   },
   "fetched": "2026-11-16T09:09:27.466017+00:00"
  },
@@ -427,6 +438,17 @@
    "venue": "Commonwealth Club World Affairs of California, Taube Family Auditorium, San Francisco, CA, 94105"
   },
   "fetched": "2026-11-16T09:09:27.466017+00:00"
+ },
+ "https://www.commonwealthclub.org/events/2027-03-18/vladimir-alexandrov-imperial-russian-support-union-during-civil-war": {
+  "detail": {
+   "description": "In 1863, as the Civil War raged, Russian warships suddenly appeared in New York and San Francisco, sparking celebrations across the North and raising hopes that Russia might support the United States should Britain and France recognize the Confederacy.",
+   "end_iso": null,
+   "livestream": false,
+   "start_iso": "2027-03-19T00:30:00",
+   "title": "Vladimir Alexandrov: Imperial Russian Support for the Union During the Civil War",
+   "venue": "The Commonwealth Club of California, Toni Rembe Rock Auditorium, San Francisco, CA, 94105"
+  },
+  "fetched": "2026-11-18T21:28:17.724403+00:00"
  },
  "https://www.commonwealthclub.org/events/2027-03-25/robert-mark-kamen-screenwriters-journey": {
   "detail": {
