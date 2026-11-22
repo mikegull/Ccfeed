@@ -305,7 +305,7 @@
    "title": "MythBusters\u2019 Adam Savage on Finding Joy in Making Things",
    "venue": "Commonwealth Club World Affairs of California, Taube Family Auditorium, San Francisco, CA, 94105"
   },
-  "fetched": "2026-11-18T21:28:17.724403+00:00"
+  "fetched": "2026-11-22T20:23:39.847924+00:00"
  },
  "https://www.commonwealthclub.org/events/2027-01-19/robert-alter-language-fiction-craft-writing-and-pleasures-reading": {
   "detail": {
@@ -327,7 +327,7 @@
    "title": "'Where You Find Me' Film Screening and Q&A",
    "venue": "Commonwealth Club World Affairs of California, Taube Family Auditorium, San Francisco, CA, 94105"
   },
-  "fetched": "2026-11-18T21:28:17.724403+00:00"
+  "fetched": "2026-11-22T20:23:39.847924+00:00"
  },
  "https://www.commonwealthclub.org/events/2027-01-25/little-known-and-shocking-revelations-about-character-and-conduct-americas": {
   "detail": {
@@ -406,6 +406,17 @@
   },
   "fetched": "2026-11-19T21:39:35.611167+00:00"
  },
+ "https://www.commonwealthclub.org/events/2027-03-01/george-hammond-reading-others-personalities": {
+  "detail": {
+   "description": "Reading others\u2019 personalities is something we all do every day. But how accurately? Some managers seem to be born with the ability to read, and then successfully manipulate, their sales staff. And some artists intuitively create images or songs that resonate deeply with how millions feel\u2014even though they were hardly aware of those feelings themselves. But is reading others\u2019 personalities accurately like that a skill that can be learned?",
+   "end_iso": null,
+   "livestream": true,
+   "start_iso": "2027-03-02T02:00:00",
+   "title": "George Hammond: Reading Others' Personalities",
+   "venue": "Commonwealth Club World Affairs of California, Taube Family Auditorium, San Francisco, CA, 94105"
+  },
+  "fetched": "2026-11-22T20:23:39.847924+00:00"
+ },
  "https://www.commonwealthclub.org/events/2027-03-04/chip-bergh-levis-story": {
   "detail": {
    "description": "How are great brands built\u2014and rebuilt? How do grand leaders ignite growth? The former president and CEO of Levi Strauss & Co. joins us for an exploration of how he accomplished those goals at the head of the iconic clothing company.",
@@ -437,7 +448,7 @@
    "title": "Vladimir Alexandrov: Imperial Russian Support for the Union During the Civil War",
    "venue": "The Commonwealth Club of California, Toni Rembe Rock Auditorium, San Francisco, CA, 94105"
   },
-  "fetched": "2026-11-18T21:28:17.724403+00:00"
+  "fetched": "2026-11-22T20:23:39.847924+00:00"
  },
  "https://www.commonwealthclub.org/events/2027-03-23/zephyr-teachout-anti-monopoly-citizens-guide": {
   "detail": {
