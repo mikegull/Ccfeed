@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:d3a681f470a1a6a6d08cb564af74603df636612d@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261118T010000Z
 DTEND:20261118T023000Z
 SUMMARY:Distinguished Citizens Awards Annual Gala 2026
@@ -26,7 +26,7 @@ DESCRIPTION:The 38th Commonwealth Club World Affairs' Distinguished Citizen
 END:VEVENT
 BEGIN:VEVENT
 UID:5cde0abf7ec07eec3497370214eacaa7c9ddf8bb@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261130T230000Z
 DTEND:20261201T003000Z
 SUMMARY:Sam Wasson: Frank Capra’s Own Wondrous Life
@@ -46,7 +46,7 @@ DESCRIPTION:Frank Capra\, the director of Mr. Smith Goes to Washington\, It
 END:VEVENT
 BEGIN:VEVENT
 UID:44534a67e84e8506460c283356a5e9a1797c4936@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261201T020000Z
 DTEND:20261201T033000Z
 SUMMARY:Sheba Shobashini: How to Resist Adopting a Spiritual Inferiority Co
@@ -62,7 +62,7 @@ DESCRIPTION:One of the most persistent and pernicious problems caused by pa
 END:VEVENT
 BEGIN:VEVENT
 UID:80fbe33206bf101c706cb7ae95fb33ef1599ae2e@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261202T013000Z
 DTEND:20261202T030000Z
 SUMMARY:Media as Civic Infrastructure: Building the Culture and Communities
@@ -85,7 +85,7 @@ DESCRIPTION:What if we understood local media not simply as a source of new
 END:VEVENT
 BEGIN:VEVENT
 UID:27d009b4f4bcb655d5ce8cbd191dc7a7782f2d54@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261203T013000Z
 DTEND:20261203T030000Z
 SUMMARY:The Intersection of Art Therapy and Spiritual Enlightenment: An Eng
@@ -107,7 +107,7 @@ DESCRIPTION:Rob Mintz\, chief curator at the Asian Art Museum and artist Ni
 END:VEVENT
 BEGIN:VEVENT
 UID:6b054ece8a91c6938ebf57c85c0ce5946e097c26@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261203T020000Z
 DTEND:20261203T033000Z
 SUMMARY:Michael Mondavi Biography Book Launch—Deals Drama Drive: Michael 
@@ -126,7 +126,7 @@ DESCRIPTION:Today\, California’s wine industry creates about $84 billion
 END:VEVENT
 BEGIN:VEVENT
 UID:c002cdbdcb8873d3045de30416ec82d0140f2940@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261204T020000Z
 DTEND:20261204T033000Z
 SUMMARY:50 Years of Mother Jones\, with Adam Hochschild and Monika Bauerlei
@@ -145,7 +145,7 @@ DESCRIPTION:San Francisco has a rich journalism history that includes being
 END:VEVENT
 BEGIN:VEVENT
 UID:0bac3f51af57e30a8c2a6ebebe44f0e1eb831799@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261204T023000Z
 DTEND:20261204T040000Z
 SUMMARY:Imperfect Circles Discussion Group at the Orinda Library
@@ -165,7 +165,7 @@ DESCRIPTION:Are you a person who never tires of talking or thinking about p
 END:VEVENT
 BEGIN:VEVENT
 UID:76a70c53290ab19bf6bd14cb1c67806032217993@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261204T030000Z
 DTEND:20261204T043000Z
 SUMMARY:‘The Second Life of Freddie Nole’: Documentary Screening
@@ -184,7 +184,7 @@ DESCRIPTION:The Second Life of Freddie Nole is a short documentary film tha
 END:VEVENT
 BEGIN:VEVENT
 UID:78bea42a63dcd92641d51e8a8562933e83f4ea0d@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261205T020000Z
 DTEND:20261205T033000Z
 SUMMARY:Venture Philanthropy Leader Jim Bildner: Turning Hope Into Action
@@ -200,7 +200,7 @@ DESCRIPTION:In a world full of seemingly endless challenges\, one human cha
 END:VEVENT
 BEGIN:VEVENT
 UID:6478009b5057451bcb3561788149b96e85747747@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261206T000000Z
 DTEND:20261206T013000Z
 SUMMARY:‘Steal This Story\, Please!’ Film Screening and Q&A with Amy Go
@@ -218,7 +218,7 @@ DESCRIPTION:Fiercely independent journalist Amy Goodman has spent three dec
 END:VEVENT
 BEGIN:VEVENT
 UID:1f7b914b0f9084fd419e47c54c4f54adc75baf24@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261208T013000Z
 DTEND:20261208T030000Z
 SUMMARY:Nicholas Bagley: How Legal Reformers Accidentally Broke America
@@ -235,7 +235,7 @@ DESCRIPTION:From the left\, right and center\, many Americans would agree t
 END:VEVENT
 BEGIN:VEVENT
 UID:e8f83e88c7369c8514192313e2417a0822b13bcd@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261208T020000Z
 DTEND:20261208T033000Z
 SUMMARY:Fed Up: What Evolution Reveals about Food\, Diet\, Health and Eatin
@@ -255,7 +255,7 @@ DESCRIPTION:Appetizers prepared by United States Coast Guard culinary stude
 END:VEVENT
 BEGIN:VEVENT
 UID:a472c477c38fe9f9afcbc5ccaa4034479ccbc81d@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261209T010000Z
 DTEND:20261209T023000Z
 SUMMARY:Reading Californians: Jeanne Carstensen’s A Greek Tragedy—A Dea
@@ -272,7 +272,7 @@ DESCRIPTION:In 2015\, Europe faced its largest refugee crisis since World W
 END:VEVENT
 BEGIN:VEVENT
 UID:9b282a1cfb042ebebb7a0c68f7405291faaadef7@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261209T020000Z
 DTEND:20261209T033000Z
 SUMMARY:Daniel Swain: 2026 Stephen Schneider Award for Outstanding Climate 
@@ -295,7 +295,7 @@ DESCRIPTION:Have questions about weather and climate? Daniel Swain has answ
 END:VEVENT
 BEGIN:VEVENT
 UID:fd3bcd0bf1e791acf5a845d101bacdbfa381c140@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261209T030000Z
 DTEND:20261209T043000Z
 SUMMARY:The Novelist & the Economist: Kim Stanley Robinson and John Fullert
@@ -317,7 +317,7 @@ DESCRIPTION:A novelist and an economist walk into a bar. Outside\, the worl
 END:VEVENT
 BEGIN:VEVENT
 UID:fd65923573331c19bd352317ab3e6369689115cc@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261210T013000Z
 DTEND:20261210T030000Z
 SUMMARY:Learning Through Place: How Schools Can Catalyze Community and Envi
@@ -336,8 +336,29 @@ DESCRIPTION:What if schools were not just places where students learn about
  ental
 END:VEVENT
 BEGIN:VEVENT
+UID:7d39a7c6553e9c3d17b9adc3dc54a9bc1ce93246@ccfeed
+DTSTAMP:20261124T230446Z
+DTSTART:20261210T020000Z
+DTEND:20261210T033000Z
+SUMMARY:Neil Ruiz With Dion Lim on Everyday Americans: Asians in the U.S. T
+ oday
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2026-12-09/neil-ruiz-dion-lim-e
+ veryday-americans-asians-us-today
+DESCRIPTION:Pew Research Center’s mission for more than a quarter century
+  has been to “allow the voices of the people to be heard.” In 2022-23\
+ , the Center undertook the largest survey ever of Americans of Asian ances
+ try. Now 24 million strong\, this transformative population is the fastest
+  growing racial or ethnic group in the United States. Everyday Americans: 
+ Asians in the U.S. Today is the culmination of the Center’s expansive mu
+ ltiyear initiative to make Americans of Asian ancestry more visible and un
+ derstood.\n\nInfo & tickets: https://www.commonwealthclub.org/events/2026-
+ 12-09/neil-ruiz-dion-lim-everyday-americans-asians-us-today
+END:VEVENT
+BEGIN:VEVENT
 UID:2bf74cd9c0d3288111e1c815bc875c8439854ac4@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261212T020000Z
 DTEND:20261212T033000Z
 SUMMARY:Holiday Mixer at the Club 2026: Music\, Art\, Bites and Bevs
@@ -355,7 +376,7 @@ DESCRIPTION:You are cordially invited to an evening of holiday cheer\, good
 END:VEVENT
 BEGIN:VEVENT
 UID:d20f220c4b7856ac55ebee864c257452d08bc9d7@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261215T020000Z
 DTEND:20261215T033000Z
 SUMMARY:Out of the Darkness: Rediscovering Classic Swedish Literature
@@ -371,7 +392,7 @@ DESCRIPTION:Join Vendela Vida\, David Katznelson\, and Ulf Olsson to celebr
 END:VEVENT
 BEGIN:VEVENT
 UID:3c0ca5e0194e3486fb884153b6af593a50aad971@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261216T020000Z
 DTEND:20261216T033000Z
 SUMMARY:The Quantum Threat: What Happens When Our Digital Locks Stop Workin
@@ -390,7 +411,7 @@ DESCRIPTION:We rely on encryption every day\, usually without thinking abou
 END:VEVENT
 BEGIN:VEVENT
 UID:acf55c7fc084aee1b3407eaaa608d2f3f270720e@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261217T013000Z
 DTEND:20261217T030000Z
 SUMMARY:The Longevity Trap: Why the Obsessive Pursuit of Longevity Is Makin
@@ -409,7 +430,7 @@ DESCRIPTION:What if the obsessive pursuit of health's itself making us sick
 END:VEVENT
 BEGIN:VEVENT
 UID:e811fa12a3f32f2fc3a2148951335cf2afbfd65b@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261217T020000Z
 DTEND:20261217T033000Z
 SUMMARY:Should Huckleberry Finn Be Banned from Our Schools — For Its Own 
@@ -428,7 +449,7 @@ DESCRIPTION:The Adventures of Huckleberry Finn has been in trouble almost f
 END:VEVENT
 BEGIN:VEVENT
 UID:d7547b71175706e8ee173f61bfc489dc5aea7995@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20261218T023000Z
 DTEND:20261218T040000Z
 SUMMARY:Jon Haveman: The Economics of Immigration
@@ -448,7 +469,7 @@ DESCRIPTION:Masked troops of ICE and CBP are scooping up immigrants\, occas
 END:VEVENT
 BEGIN:VEVENT
 UID:05acbfc184c99c6ad3f086d9b8c74f906f936d9a@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270106T180000Z
 DTEND:20270106T193000Z
 SUMMARY:AI and the Economy\, with SF Fed’s Mary C. Daly
@@ -468,7 +489,7 @@ DESCRIPTION:Mary C. Daly is president and chief executive officer of the Fe
 END:VEVENT
 BEGIN:VEVENT
 UID:5f29cf86f0e7591cffb0395a351641cb22ea1c34@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270108T013000Z
 DTEND:20270108T030000Z
 SUMMARY:Michael Shellenberger and Alex Gutentag: The Left’s War on Realit
@@ -488,7 +509,7 @@ DESCRIPTION:In The Left’s War on Reality\, Michael Shellenberger and Alex
 END:VEVENT
 BEGIN:VEVENT
 UID:4550c17855bb83b8d57e96206d382c442dd5a7f5@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270115T013000Z
 DTEND:20270115T030000Z
 SUMMARY:Chinese Americans: The Most Litigious\, Civilly Disobedient America
@@ -509,7 +530,7 @@ DESCRIPTION:David Y. Lei\, born in Taiwan\, immigrated to the United States
 END:VEVENT
 BEGIN:VEVENT
 UID:e2cff2cf249cab8aa9af3a5ec62a47bc5aecf6a2@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270115T023000Z
 DTEND:20270115T040000Z
 SUMMARY:From Cyberselfish to the Nerd Reich: The Rise of Radical Silicon Va
@@ -528,7 +549,7 @@ DESCRIPTION:Paulina Borsook’s work Cyberselfish—now in a current printi
 END:VEVENT
 BEGIN:VEVENT
 UID:8d620e4de22d3f9c9f8f84bc675398ea3f3150d8@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270120T013000Z
 DTEND:20270120T030000Z
 SUMMARY:Robert Alter: The Language of Fiction\, the Craft of Writing and th
@@ -546,7 +567,7 @@ DESCRIPTION:What distinguishes the prose of great novels? How have celebrat
 END:VEVENT
 BEGIN:VEVENT
 UID:4b24b4518541655e0887adb4212f9269a237107e@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270120T020000Z
 DTEND:20270120T033000Z
 SUMMARY:MythBusters’ Adam Savage on Finding Joy in Making Things
@@ -567,7 +588,7 @@ DESCRIPTION:Former "MythBusters" co-host Adam Savage has been described as
 END:VEVENT
 BEGIN:VEVENT
 UID:91c0f6059986ff40be9b86bc5ef39934d16441ca@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270122T020000Z
 DTEND:20270122T033000Z
 SUMMARY:'Where You Find Me' Film Screening and Q&A
@@ -588,7 +609,7 @@ DESCRIPTION:Where You Find Me is a short film directed by Jen Tocquigny tha
 END:VEVENT
 BEGIN:VEVENT
 UID:5607776c1185c0a987d99d5bb497e2613031e4f3@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270126T020000Z
 DTEND:20270126T033000Z
 SUMMARY:Little-Known (and Shocking) Revelations About the Character and Con
@@ -604,7 +625,7 @@ DESCRIPTION:How do scholars and experts rate the presidents? Who was smart\
 END:VEVENT
 BEGIN:VEVENT
 UID:26d588a34478b2ba93b0fe1c897462905dc51f12@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270127T013000Z
 DTEND:20270127T030000Z
 SUMMARY:Nico Perrino: Free Speech Generation
@@ -619,7 +640,7 @@ DESCRIPTION:Learn about the men and women who transformed America’s First
 END:VEVENT
 BEGIN:VEVENT
 UID:66b00b61b8157035d8451d38bf9ce015eb6c99f2@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270127T013000Z
 DTEND:20270127T030000Z
 SUMMARY:NPR’s Emily Feng on How China’s Repression Fueled a Militant Mo
@@ -640,7 +661,7 @@ DESCRIPTION:What drove a few thousand men and women from the deserts and ci
 END:VEVENT
 BEGIN:VEVENT
 UID:95083406e11cca4661b9c84a938ea819da68c4f1@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270128T020000Z
 DTEND:20270128T033000Z
 SUMMARY:ProPublica\, Stanford and UC Berkeley on the Influence of Fossil Fu
@@ -658,7 +679,7 @@ DESCRIPTION:The fossil fuel industry uses its immense profits to further it
 END:VEVENT
 BEGIN:VEVENT
 UID:00445a9c8f0224d95573bddd7d7e3daaf19e4ee8@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270211T190000Z
 DTEND:20270211T203000Z
 SUMMARY:The Economy 2027: Will the “Boomcession” Continue?
@@ -678,7 +699,7 @@ DESCRIPTION:The Walter E. Hoadley Annual Economic Forecast\, presented by B
 END:VEVENT
 BEGIN:VEVENT
 UID:1a668ac09f47c6ba45784c1c548c11ea423b6aa3@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270224T023000Z
 DTEND:20270224T040000Z
 SUMMARY:Amory Lovins on Disruptive Energy Futures
@@ -697,7 +718,7 @@ DESCRIPTION:In a visionary essay in Foreign Affairs\, physicist Amory Lovin
 END:VEVENT
 BEGIN:VEVENT
 UID:15de5836b6f20cc70e9122f8de2e956505d58cd5@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270226T030000Z
 DTEND:20270226T043000Z
 SUMMARY:Timnit Gebru: The Rise of AI and the Radicalization of a Tech Ideal
@@ -712,7 +733,7 @@ DESCRIPTION:How can Silicon Valley produce better\, human-centered\, equita
 END:VEVENT
 BEGIN:VEVENT
 UID:493e7a7daaf9bc33a16e89a27ce48038e4fd057e@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270302T020000Z
 DTEND:20270302T033000Z
 SUMMARY:George Hammond: Reading Others' Personalities
@@ -730,8 +751,26 @@ DESCRIPTION:Reading others’ personalities is something we all do every da
  /2027-03-01/george-hammond-reading-others-personalities
 END:VEVENT
 BEGIN:VEVENT
+UID:d76821f198a005cc05f574ddefff4c396b49dfc0@ccfeed
+DTSTAMP:20261124T230446Z
+DTSTART:20270303T020000Z
+DTEND:20270303T033000Z
+SUMMARY:Robert Sutton\, Alison Fragale and Kim Scott: 20 Years of the Defin
+ itive Guide to Working with and Surviving Bullies\, Jerks and More
+LOCATION:Commonwealth Club World Affairs of California\, Taube Family Audit
+ orium\, San Francisco\, CA\, 94105
+URL:https://www.commonwealthclub.org/events/2027-03-02/robert-sutton-alison
+ -fragale-and-kim-scott-20-years-definitive-guide-working-and
+DESCRIPTION:Twenty years ago\, Stanford professor Dr. Robert Sutton publish
+ ed a popular business book about workplace bullying. Provocatively titled 
+ The No A--hole Rule: Building a Civilized Workplace and Surviving One That
+  Isn’t\, the book became a bestseller and spawned a sequel.\n\nInfo & ti
+ ckets: https://www.commonwealthclub.org/events/2027-03-02/robert-sutton-al
+ ison-fragale-and-kim-scott-20-years-definitive-guide-working-and
+END:VEVENT
+BEGIN:VEVENT
 UID:9d0b73f16caa37cf7f652a47af2874bdaaa0bc51@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270305T020000Z
 DTEND:20270305T033000Z
 SUMMARY:Chip Bergh: A Levi’s Story
@@ -747,7 +786,7 @@ DESCRIPTION:How are great brands built—and rebuilt? How do grand leaders
 END:VEVENT
 BEGIN:VEVENT
 UID:f883deb6b01f3320df2f96b4c4f5e511f0737872@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270312T020000Z
 DTEND:20270312T033000Z
 SUMMARY:Lindsey Caplan and Anthony Veneziale: The Art and Science of What M
@@ -768,7 +807,7 @@ DESCRIPTION:What does it take to move a room full of people? And what can t
 END:VEVENT
 BEGIN:VEVENT
 UID:d70f57fedb699b33317fceb99a65bf70a742e0f7@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270319T003000Z
 DTEND:20270319T020000Z
 SUMMARY:Vladimir Alexandrov: Imperial Russian Support for the Union During 
@@ -786,7 +825,7 @@ DESCRIPTION:In 1863\, as the Civil War raged\, Russian warships suddenly ap
 END:VEVENT
 BEGIN:VEVENT
 UID:fa31757866035e9cb086726a9ef396e4f064102d@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270323T010000Z
 DTEND:20270323T023000Z
 SUMMARY:European Travel Guru Rick Steves: Italy for Food Lovers
@@ -802,7 +841,7 @@ DESCRIPTION:Join Rick Steves for an evening of la dolce vita! His new book\
 END:VEVENT
 BEGIN:VEVENT
 UID:ad0c8a9013a6511ca75e16dcd79ec6c5aaf9db84@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270324T010000Z
 DTEND:20270324T023000Z
 SUMMARY:Zephyr Teachout: Anti-Monopoly\, A Citizen’s Guide
@@ -818,7 +857,7 @@ DESCRIPTION:In the midterm election\, Americans told pollsters their top pr
 END:VEVENT
 BEGIN:VEVENT
 UID:dfc7a9a3f3884667b1c50c1bd420c1c65e43b573@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270326T003000Z
 DTEND:20270326T020000Z
 SUMMARY:Robert Mark Kamen: A Screenwriter’s Journey
@@ -836,7 +875,7 @@ DESCRIPTION:The man who wrote The Karate Kid\, The Fifth Element\, and the
 END:VEVENT
 BEGIN:VEVENT
 UID:8b72dec49b9c04b896c28626d0a1cc93f23feec1@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270327T000000Z
 DTEND:20270327T013000Z
 SUMMARY:Humanities West Presents Beethoven the Revolutionary
@@ -855,7 +894,7 @@ DESCRIPTION:Ludwig van Beethoven died on March 26\, 1827\, after a lifetime
 END:VEVENT
 BEGIN:VEVENT
 UID:873af44eac03fbb05ac9abc6f714b66292846013@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270424T000000Z
 DTEND:20270424T013000Z
 SUMMARY:Humanities West presents Mark Twain in His Own Words
@@ -874,7 +913,7 @@ DESCRIPTION:Sit down with Humanities West to enjoy one of the first stand-u
 END:VEVENT
 BEGIN:VEVENT
 UID:6fbe039e129046516e018b9e195e61b5616d60c5@ccfeed
-DTSTAMP:20261124T010036Z
+DTSTAMP:20261124T230446Z
 DTSTART:20270604T010000Z
 DTEND:20270604T023000Z
 SUMMARY:An Evening with Dan Ashley: Side Quests to Significance
